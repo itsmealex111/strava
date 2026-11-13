@@ -11,7 +11,7 @@
       "activities": 18,
       "longest_km": 21.1,
       "elevation_m": 180,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:30"
     },
     {
@@ -20,7 +20,7 @@
       "activities": 13,
       "longest_km": 7.5,
       "elevation_m": 53,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:39"
     },
     {
@@ -29,7 +29,7 @@
       "activities": 11,
       "longest_km": 10.8,
       "elevation_m": 79,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:24"
     },
     {
@@ -38,7 +38,7 @@
       "activities": 11,
       "longest_km": 13.3,
       "elevation_m": 98,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:34"
     },
     {
@@ -47,7 +47,7 @@
       "activities": 10,
       "longest_km": 15.0,
       "elevation_m": 86,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:28"
     },
     {
@@ -56,7 +56,7 @@
       "activities": 9,
       "longest_km": 21.3,
       "elevation_m": 22,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:40"
     },
     {
@@ -65,7 +65,7 @@
       "activities": 6,
       "longest_km": 10.1,
       "elevation_m": 96,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:37"
     },
     {
@@ -74,7 +74,7 @@
       "activities": 5,
       "longest_km": 11.2,
       "elevation_m": 98,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:20"
     },
     {
@@ -83,7 +83,7 @@
       "activities": 10,
       "longest_km": 7.3,
       "elevation_m": 60,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:33"
     },
     {
@@ -92,7 +92,7 @@
       "activities": 5,
       "longest_km": 10.2,
       "elevation_m": 237,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:00"
     },
     {
@@ -101,7 +101,7 @@
       "activities": 7,
       "longest_km": 11.0,
       "elevation_m": 242,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:38"
     },
     {
@@ -110,7 +110,7 @@
       "activities": 5,
       "longest_km": 15.0,
       "elevation_m": 95,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "15:11"
     },
     {
@@ -119,7 +119,7 @@
       "activities": 7,
       "longest_km": 5.6,
       "elevation_m": 10,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:38"
     },
     {
@@ -128,7 +128,7 @@
       "activities": 11,
       "longest_km": 2.7,
       "elevation_m": 39,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "8:13"
     },
     {
@@ -137,7 +137,7 @@
       "activities": 7,
       "longest_km": 5.5,
       "elevation_m": 28,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "7:28"
     },
     {
@@ -146,7 +146,7 @@
       "activities": 5,
       "longest_km": 12.2,
       "elevation_m": 59,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:26"
     },
     {
@@ -155,7 +155,7 @@
       "activities": 5,
       "longest_km": 6.2,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:21"
     },
     {
@@ -164,7 +164,7 @@
       "activities": 5,
       "longest_km": 9.3,
       "elevation_m": 29,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "9:28"
     },
     {
@@ -173,7 +173,7 @@
       "activities": 6,
       "longest_km": 5.1,
       "elevation_m": 28,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "6:43"
     },
     {
@@ -182,7 +182,7 @@
       "activities": 3,
       "longest_km": 21.3,
       "elevation_m": 26,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:59"
     },
     {
@@ -191,7 +191,7 @@
       "activities": 3,
       "longest_km": 15.0,
       "elevation_m": 141,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:39"
     },
     {
@@ -200,7 +200,7 @@
       "activities": 7,
       "longest_km": 5.3,
       "elevation_m": 31,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "6:58"
     },
     {
@@ -209,7 +209,7 @@
       "activities": 6,
       "longest_km": 6.0,
       "elevation_m": 27,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:58"
     },
     {
@@ -218,7 +218,7 @@
       "activities": 5,
       "longest_km": 5.1,
       "elevation_m": 16,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:32"
     },
     {
@@ -227,7 +227,7 @@
       "activities": 5,
       "longest_km": 6.0,
       "elevation_m": 12,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:17"
     },
     {
@@ -236,7 +236,7 @@
       "activities": 1,
       "longest_km": 21.1,
       "elevation_m": 20,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:41"
     },
     {
@@ -245,7 +245,7 @@
       "activities": 6,
       "longest_km": 4.7,
       "elevation_m": 11,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:22"
     },
     {
@@ -254,7 +254,7 @@
       "activities": 5,
       "longest_km": 5.0,
       "elevation_m": 10,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:40"
     },
     {
@@ -263,7 +263,7 @@
       "activities": 5,
       "longest_km": 5.0,
       "elevation_m": 12,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "7:04"
     },
     {
@@ -272,7 +272,7 @@
       "activities": 5,
       "longest_km": 5.1,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:34"
     },
     {
@@ -281,7 +281,7 @@
       "activities": 5,
       "longest_km": 5.0,
       "elevation_m": 18,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:56"
     },
     {
@@ -290,7 +290,7 @@
       "activities": 6,
       "longest_km": 3.0,
       "elevation_m": 23,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "10:37"
     },
     {
@@ -299,7 +299,7 @@
       "activities": 5,
       "longest_km": 3.3,
       "elevation_m": 8,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:54"
     },
     {
@@ -308,7 +308,7 @@
       "activities": 4,
       "longest_km": 5.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:56"
     },
     {
@@ -317,7 +317,7 @@
       "activities": 5,
       "longest_km": 3.4,
       "elevation_m": 9,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "8:29"
     },
     {
@@ -326,7 +326,7 @@
       "activities": 5,
       "longest_km": 2.8,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "7:29"
     },
     {
@@ -335,7 +335,7 @@
       "activities": 3,
       "longest_km": 5.0,
       "elevation_m": 4,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:51"
     },
     {
@@ -344,7 +344,7 @@
       "activities": 5,
       "longest_km": 3.0,
       "elevation_m": 6,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:41"
     },
     {
@@ -353,7 +353,7 @@
       "activities": 3,
       "longest_km": 5.1,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:45"
     },
     {
@@ -362,7 +362,7 @@
       "activities": 4,
       "longest_km": 3.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:28"
     },
     {
@@ -371,7 +371,7 @@
       "activities": 3,
       "longest_km": 4.0,
       "elevation_m": 9,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:49"
     },
     {
@@ -380,7 +380,7 @@
       "activities": 2,
       "longest_km": 5.0,
       "elevation_m": 126,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:53"
     },
     {
@@ -389,7 +389,7 @@
       "activities": 2,
       "longest_km": 5.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:03"
     },
     {
@@ -398,7 +398,7 @@
       "activities": 2,
       "longest_km": 5.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:13"
     },
     {
@@ -407,7 +407,7 @@
       "activities": 3,
       "longest_km": 5.0,
       "elevation_m": 2,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:54"
     },
     {
@@ -416,7 +416,7 @@
       "activities": 2,
       "longest_km": 5.0,
       "elevation_m": 9,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:16"
     },
     {
@@ -425,7 +425,7 @@
       "activities": 3,
       "longest_km": 5.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "7:38"
     },
     {
@@ -434,7 +434,7 @@
       "activities": 3,
       "longest_km": 3.2,
       "elevation_m": 17,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:55"
     },
     {
@@ -443,7 +443,7 @@
       "activities": 3,
       "longest_km": 3.5,
       "elevation_m": 2,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:57"
     },
     {
@@ -452,7 +452,7 @@
       "activities": 2,
       "longest_km": 5.0,
       "elevation_m": 2,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:03"
     },
     {
@@ -461,7 +461,7 @@
       "activities": 2,
       "longest_km": 4.4,
       "elevation_m": 4,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:30"
     },
     {
@@ -470,7 +470,7 @@
       "activities": 4,
       "longest_km": 3.9,
       "elevation_m": 42,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "8:55"
     },
     {
@@ -479,7 +479,7 @@
       "activities": 3,
       "longest_km": 2.2,
       "elevation_m": 2,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "7:45"
     },
     {
@@ -488,7 +488,7 @@
       "activities": 2,
       "longest_km": 3.3,
       "elevation_m": 2,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "8:00"
     },
     {
@@ -497,7 +497,7 @@
       "activities": 2,
       "longest_km": 3.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:08"
     },
     {
@@ -506,7 +506,7 @@
       "activities": 1,
       "longest_km": 5.0,
       "elevation_m": 13,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "7:02"
     },
     {
@@ -515,7 +515,7 @@
       "activities": 2,
       "longest_km": 2.6,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:33"
     },
     {
@@ -524,7 +524,7 @@
       "activities": 1,
       "longest_km": 4.6,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:18"
     },
     {
@@ -533,7 +533,7 @@
       "activities": 3,
       "longest_km": 2.0,
       "elevation_m": 3,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:48"
     },
     {
@@ -542,7 +542,7 @@
       "activities": 1,
       "longest_km": 3.7,
       "elevation_m": 2,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:29"
     },
     {
@@ -551,7 +551,7 @@
       "activities": 1,
       "longest_km": 3.5,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:34"
     },
     {
@@ -560,7 +560,7 @@
       "activities": 1,
       "longest_km": 3.2,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:21"
     },
     {
@@ -569,7 +569,7 @@
       "activities": 1,
       "longest_km": 3.0,
       "elevation_m": 11,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:47"
     },
     {
@@ -578,7 +578,7 @@
       "activities": 2,
       "longest_km": 2.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:42"
     },
     {
@@ -587,7 +587,7 @@
       "activities": 1,
       "longest_km": 2.5,
       "elevation_m": 7,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:03"
     },
     {
@@ -596,7 +596,7 @@
       "activities": 1,
       "longest_km": 1.7,
       "elevation_m": 2,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:58"
     },
     {
@@ -605,7 +605,7 @@
       "activities": 1,
       "longest_km": 1.7,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "11:10"
     },
     {
@@ -614,7 +614,7 @@
       "activities": 1,
       "longest_km": 1.5,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "8:35"
     },
     {
@@ -623,7 +623,7 @@
       "activities": 2,
       "longest_km": 1.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:12"
     },
     {
@@ -632,7 +632,7 @@
       "activities": 1,
       "longest_km": 1.3,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "5:42"
     },
     {
@@ -641,7 +641,7 @@
       "activities": 1,
       "longest_km": 1.1,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "6:56"
     },
     {
@@ -650,7 +650,7 @@
       "activities": 1,
       "longest_km": 1.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "male",
       "avg_pace": "6:50"
     },
     {
@@ -659,7 +659,7 @@
       "activities": 1,
       "longest_km": 1.0,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "6:57"
     },
     {
@@ -668,7 +668,7 @@
       "activities": 1,
       "longest_km": 0.6,
       "elevation_m": 0,
-      "gender": null,
+      "gender": "female",
       "avg_pace": "7:47"
     }
   ]
