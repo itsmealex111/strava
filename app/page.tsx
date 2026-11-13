@@ -24,7 +24,7 @@ export default function Home() {
   <header className="hero">
    <div className="brand"><img className="brandLogo" src="/images/soedirman-runners.png" alt="Logo Soedirman Runners"/><span className="brandDivider"></span><img className="p3mdiLogo" src="/images/p3mdi.png" alt="Logo P3MDI"/><span className="eventtag">CHALLENGE 2026</span></div>
    <div className="heroCopy"><p className="eyebrow">2 — 30 NOVEMBER 2026</p><h1>SOEDIRMAN<br/><em>STRAVA CHALLENGE</em></h1><p className="sub">Run your distance. Push your limits. Earn your place.</p></div>
-   <div className="heroFoot"><span>BERANI · CEPAT · TERHORMAT</span><span>LEADERBOARD UPDATE: 11 NOV 2026</span></div>
+   <div className="heroFoot"><span>BERANI · CEPAT · TERHORMAT</span><span>LEADERBOARD UPDATE: 13 NOV 2026</span></div>
   </header>
   <section className="stats">
    <article><span>TOTAL PESERTA</span><strong>{data.participants.length}</strong><small>athletes</small></article>
