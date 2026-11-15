@@ -1,19 +1,15 @@
-# Soedirman Strava Challenge 2026
+# Soedirman Strava Challenge 2026 — GitHub Update
 
-Website leaderboard publik menggunakan Next.js, siap dihubungkan ke repository GitHub baru dan Vercel.
+Update data: 15 November 2026
 
-## Data saat ini
-- Week 1 final: 67 peserta
-- Week 2 cumulative snapshot sampai 11 November 2026: 37 peserta
-- Total gabungan: 70 peserta
-- Lucky Finisher threshold: 30 km
-- Tidak ada podium Top 3 di halaman.
+## Isi update
+- `public/data/week1.json`: Week 1 final terbaru (68 peserta)
+- `public/data/week2_latest.json`: snapshot Week 2 terbaru (67 peserta)
+- `public/leaderboard.json`: akumulasi Week 1 + Week 2 (79 peserta)
+- `public/gender.json`: data gender (10 wanita; peserta lainnya pria)
+- `app/page.tsx`: label update website diperbarui
 
 ## Deploy
-1. Upload seluruh isi folder ini ke repository GitHub baru (jangan upload folder pembungkus).
-2. Import repository di Vercel.
-3. Framework: Next.js; Root Directory: `./`; Build Command default.
-4. Deploy.
+Replace file project di repository GitHub dengan isi ZIP ini, commit ke branch yang terhubung ke Vercel, lalu tunggu deployment berstatus Ready.
 
-## Update leaderboard berikutnya
-Ganti `public/data/week2_latest.json` dengan snapshot Week 2 terbaru, lalu hitung ulang `public/leaderboard.json` dari Week 1 + snapshot Week 2 terbaru. Jangan menambahkan snapshot Week 2 lama ke snapshot baru.
+Untuk update berikutnya, ganti `week2_latest.json` dengan snapshot kumulatif Week 2 terbaru. Jangan menjumlahkan snapshot Week 2 lama dan baru.
