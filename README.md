@@ -1,15 +1,21 @@
 # Soedirman Strava Challenge 2026 — GitHub Update
 
-Update data: 15 November 2026
+Update data: 17 November 2026
 
-## Isi update
-- `public/data/week1.json`: Week 1 final terbaru (68 peserta)
-- `public/data/week2_latest.json`: snapshot Week 2 terbaru (67 peserta)
-- `public/leaderboard.json`: akumulasi Week 1 + Week 2 (79 peserta)
-- `public/gender.json`: data gender (10 wanita; peserta lainnya pria)
-- `app/page.tsx`: label update website diperbarui
+## Data included
+- `public/data/week1.json`: Week 1 final snapshot (68 participants)
+- `public/data/week2_latest.json`: Week 2 final snapshot (67 participants)
+- `public/data/week3_latest.json`: latest cumulative Week 3 snapshot (52 participants)
+- `public/leaderboard.json`: combined overall leaderboard (82 unique participants)
+- `public/gender.json`: gender mapping (10 women; all others default to men)
+- `app/page.tsx`: website update label
+
+## Current summary
+- Total distance: 2074.5 km
+- Total activities: 466
+- Participants >= 30 km: 27
 
 ## Deploy
-Replace file project di repository GitHub dengan isi ZIP ini, commit ke branch yang terhubung ke Vercel, lalu tunggu deployment berstatus Ready.
+Replace the project files in your GitHub repository with the contents of this ZIP, commit to the branch connected to Vercel, and wait for deployment to show Ready.
 
-Untuk update berikutnya, ganti `week2_latest.json` dengan snapshot kumulatif Week 2 terbaru. Jangan menjumlahkan snapshot Week 2 lama dan baru.
+For future updates, replace `week3_latest.json` with the newest cumulative Week 3 snapshot. Do not add two cumulative Week 3 snapshots together. At the start of a new week, retain finalized earlier-week data and use the latest cumulative snapshot for the current week.
