@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-11-17",
-  "week_label": "Week 1 final + Week 2 final + Week 3 snapshot terbaru",
+  "updated_at": "2026-11-18",
+  "week_label": "Week 1 final + Week 2 final + Week 3 snapshot sampai 18 November 2026",
   "event_start": "2026-11-02",
   "event_end": "2026-11-30",
-  "aggregation_note": "Overall challenge = Week 1 final + Week 2 final + latest cumulative Week 3 snapshot. Replace Week 3 snapshot on future updates; do not add Week 3 snapshots together. Names normalized for duplicate spacing/case. Naufal . and Naufal Argy are separate participants.",
+  "aggregation_note": "Overall challenge = Week 1 final + latest Week 2 cumulative snapshot + latest Week 3 cumulative snapshot through 18 Nov 2026. Replace the relevant week's latest snapshot on future updates; do not add cumulative snapshots from the same week together. Names normalized for duplicate spacing/case. Naufal . and Naufal Argy are separate participants. Pace is distance-weighted where pace data is available; missing elevation is treated as 0.",
   "participants": [
     {
       "name": "Dep Fr",
-      "distance_km": 147.3,
-      "activities": 24,
+      "distance_km": 158.3,
+      "activities": 26,
       "longest_km": 21.1,
-      "elevation_m": 234,
+      "elevation_m": 245,
       "gender": "male",
       "avg_pace": "6:35"
     },
     {
       "name": "Viandra Diarsa",
-      "distance_km": 106.4,
-      "activities": 17,
+      "distance_km": 122.7,
+      "activities": 19,
       "longest_km": 15.1,
-      "elevation_m": 168,
+      "elevation_m": 190,
       "gender": "male",
-      "avg_pace": "7:25"
+      "avg_pace": "7:21"
     },
     {
       "name": "Ilham Ubed",
-      "distance_km": 102.8,
-      "activities": 16,
+      "distance_km": 107.8,
+      "activities": 17,
       "longest_km": 15.0,
       "elevation_m": 94,
       "gender": "male",
@@ -34,57 +34,75 @@
     },
     {
       "name": "Leonarsa Friendly Hutapea",
-      "distance_km": 95.8,
-      "activities": 16,
+      "distance_km": 106.0,
+      "activities": 18,
       "longest_km": 11.6,
-      "elevation_m": 138,
+      "elevation_m": 170,
       "gender": "male",
-      "avg_pace": "7:25"
+      "avg_pace": "7:31"
     },
     {
       "name": "Sigi Sitepu",
-      "distance_km": 85.0,
-      "activities": 17,
+      "distance_km": 90.5,
+      "activities": 18,
       "longest_km": 10.0,
       "elevation_m": 57,
       "gender": "male",
-      "avg_pace": "5:38"
+      "avg_pace": "5:37"
     },
     {
       "name": "zein nurrahman",
-      "distance_km": 58.5,
-      "activities": 12,
+      "distance_km": 63.6,
+      "activities": 13,
       "longest_km": 21.3,
       "elevation_m": 22,
       "gender": "male",
-      "avg_pace": "6:41"
+      "avg_pace": "6:42"
     },
     {
       "name": "Naufal Argy",
-      "distance_km": 56.5,
-      "activities": 8,
+      "distance_km": 63.5,
+      "activities": 9,
       "longest_km": 11.2,
-      "elevation_m": 113,
+      "elevation_m": 124,
       "gender": "male",
-      "avg_pace": "5:22"
+      "avg_pace": "5:21"
     },
     {
       "name": "Anggit D",
-      "distance_km": 54.6,
-      "activities": 9,
+      "distance_km": 58.7,
+      "activities": 10,
       "longest_km": 12.0,
       "elevation_m": 39,
       "gender": "male",
-      "avg_pace": "6:28"
+      "avg_pace": "6:30"
     },
     {
       "name": "Barran Maulana",
-      "distance_km": 52.6,
-      "activities": 7,
+      "distance_km": 57.6,
+      "activities": 8,
       "longest_km": 15.0,
-      "elevation_m": 169,
+      "elevation_m": 178,
       "gender": "male",
-      "avg_pace": "6:42"
+      "avg_pace": "6:37"
+    },
+    {
+      "name": "Hafizh R.",
+      "distance_km": 55.2,
+      "activities": 10,
+      "longest_km": 7.2,
+      "elevation_m": 0,
+      "gender": "male",
+      "avg_pace": "5:18"
+    },
+    {
+      "name": "Ahmad Choirul Muna",
+      "distance_km": 51.9,
+      "activities": 9,
+      "longest_km": 12.2,
+      "elevation_m": 69,
+      "gender": "male",
+      "avg_pace": "6:44"
     },
     {
       "name": "ahmad zaki",
@@ -96,13 +114,22 @@
       "avg_pace": "7:32"
     },
     {
-      "name": "Hafizh R.",
-      "distance_km": 48.5,
-      "activities": 9,
-      "longest_km": 7.2,
-      "elevation_m": 0,
+      "name": "Iqbal Nurpasha",
+      "distance_km": 48.6,
+      "activities": 10,
+      "longest_km": 11.0,
+      "elevation_m": 281,
       "gender": "male",
-      "avg_pace": "5:18"
+      "avg_pace": "7:47"
+    },
+    {
+      "name": "Yusuf Wibowo",
+      "distance_km": 48.6,
+      "activities": 7,
+      "longest_km": 21.3,
+      "elevation_m": 26,
+      "gender": "male",
+      "avg_pace": "7:39"
     },
     {
       "name": "Kurotsuchi Mayuri",
@@ -114,13 +141,13 @@
       "avg_pace": "6:33"
     },
     {
-      "name": "Iqbal Nurpasha",
-      "distance_km": 45.9,
-      "activities": 9,
-      "longest_km": 11.0,
-      "elevation_m": 273,
+      "name": "Dhio Novansyah",
+      "distance_km": 46.0,
+      "activities": 17,
+      "longest_km": 2.7,
+      "elevation_m": 76,
       "gender": "male",
-      "avg_pace": "7:43"
+      "avg_pace": "8:06"
     },
     {
       "name": "Gema A. Putra",
@@ -132,49 +159,40 @@
       "avg_pace": "6:55"
     },
     {
-      "name": "Ahmad Choirul Muna",
-      "distance_km": 44.9,
-      "activities": 8,
-      "longest_km": 12.2,
-      "elevation_m": 68,
+      "name": "Christophorus Gerard Marvin",
+      "distance_km": 43.8,
+      "activities": 10,
+      "longest_km": 10.1,
+      "elevation_m": 70,
       "gender": "male",
-      "avg_pace": "6:47"
-    },
-    {
-      "name": "Yusuf Wibowo",
-      "distance_km": 43.4,
-      "activities": 6,
-      "longest_km": 21.3,
-      "elevation_m": 26,
-      "gender": "male",
-      "avg_pace": "7:41"
-    },
-    {
-      "name": "Dhio Novansyah",
-      "distance_km": 40.6,
-      "activities": 15,
-      "longest_km": 2.7,
-      "elevation_m": 76,
-      "gender": "male",
-      "avg_pace": "8:09"
+      "avg_pace": "7:10"
     },
     {
       "name": "Nadia Akilah",
-      "distance_km": 39.2,
-      "activities": 8,
+      "distance_km": 42.3,
+      "activities": 9,
       "longest_km": 6.1,
-      "elevation_m": 51,
+      "elevation_m": 57,
       "gender": "female",
-      "avg_pace": "6:39"
+      "avg_pace": "6:36"
     },
     {
       "name": "Azka G",
-      "distance_km": 37.5,
-      "activities": 9,
+      "distance_km": 41.7,
+      "activities": 10,
       "longest_km": 7.2,
-      "elevation_m": 41,
+      "elevation_m": 45,
       "gender": "female",
-      "avg_pace": "7:41"
+      "avg_pace": "7:38"
+    },
+    {
+      "name": "Riska NA",
+      "distance_km": 41.4,
+      "activities": 10,
+      "longest_km": 7.0,
+      "elevation_m": 88,
+      "gender": "female",
+      "avg_pace": "6:58"
     },
     {
       "name": "Lukas Limbong",
@@ -186,40 +204,49 @@
       "avg_pace": "6:52"
     },
     {
-      "name": "Marvel Adam",
-      "distance_km": 36.6,
-      "activities": 6,
-      "longest_km": 15.0,
-      "elevation_m": 87,
+      "name": "Rakha Lagi Cidera",
+      "distance_km": 36.1,
+      "activities": 8,
+      "longest_km": 6.1,
+      "elevation_m": 12,
       "gender": "male",
-      "avg_pace": "33:53"
+      "avg_pace": "6:16"
     },
     {
-      "name": "Riska NA",
-      "distance_km": 32.9,
-      "activities": 8,
-      "longest_km": 7.0,
-      "elevation_m": 73,
-      "gender": "female",
-      "avg_pace": "6:58"
+      "name": "Alif belajar lari",
+      "distance_km": 35.5,
+      "activities": 10,
+      "longest_km": 6.0,
+      "elevation_m": 34,
+      "gender": "male",
+      "avg_pace": "6:04"
     },
     {
       "name": "Savero Ananda",
-      "distance_km": 32.8,
-      "activities": 8,
+      "distance_km": 34.9,
+      "activities": 9,
       "longest_km": 9.8,
-      "elevation_m": 55,
+      "elevation_m": 63,
       "gender": "male",
       "avg_pace": "7:24"
     },
     {
-      "name": "Alif belajar lari",
-      "distance_km": 32.5,
-      "activities": 9,
-      "longest_km": 6.0,
-      "elevation_m": 34,
+      "name": "Marvel Adam",
+      "distance_km": 34.8,
+      "activities": 7,
+      "longest_km": 15.0,
+      "elevation_m": 87,
       "gender": "male",
-      "avg_pace": "5:57"
+      "avg_pace": "6:31"
+    },
+    {
+      "name": "Nyoman Wiyana",
+      "distance_km": 34.1,
+      "activities": 10,
+      "longest_km": 5.0,
+      "elevation_m": 33,
+      "gender": "male",
+      "avg_pace": "6:30"
     },
     {
       "name": "Farhan Fadil",
@@ -240,24 +267,6 @@
       "avg_pace": "6:38"
     },
     {
-      "name": "Rakha Lagi Cidera",
-      "distance_km": 30.0,
-      "activities": 7,
-      "longest_km": 6.0,
-      "elevation_m": 12,
-      "gender": "male",
-      "avg_pace": "6:21"
-    },
-    {
-      "name": "Nyoman Wiyana",
-      "distance_km": 29.1,
-      "activities": 9,
-      "longest_km": 4.7,
-      "elevation_m": 26,
-      "gender": "male",
-      "avg_pace": "6:29"
-    },
-    {
       "name": "Anom Wibisono",
       "distance_km": 27.0,
       "activities": 6,
@@ -265,6 +274,24 @@
       "elevation_m": 0,
       "gender": "male",
       "avg_pace": "7:54"
+    },
+    {
+      "name": "Rizky Zaidan",
+      "distance_km": 26.6,
+      "activities": 9,
+      "longest_km": 5.7,
+      "elevation_m": 163,
+      "gender": "male",
+      "avg_pace": "7:27"
+    },
+    {
+      "name": "Muhammad Riziq Muttaqin",
+      "distance_km": 25.2,
+      "activities": 5,
+      "longest_km": 7.2,
+      "elevation_m": 46,
+      "gender": "male",
+      "avg_pace": "6:27"
     },
     {
       "name": "Aizna S",
@@ -294,6 +321,24 @@
       "avg_pace": "10:10"
     },
     {
+      "name": "Zildjian Axa",
+      "distance_km": 21.8,
+      "activities": 9,
+      "longest_km": 3.3,
+      "elevation_m": 8,
+      "gender": "male",
+      "avg_pace": "6:41"
+    },
+    {
+      "name": "Andrean Dicky Octafilianus",
+      "distance_km": 21.7,
+      "activities": 6,
+      "longest_km": 5.0,
+      "elevation_m": 0,
+      "gender": "male",
+      "avg_pace": "6:17"
+    },
+    {
       "name": "Cahya Farhan Muhammad",
       "distance_km": 20.9,
       "activities": 6,
@@ -312,22 +357,22 @@
       "avg_pace": "5:59"
     },
     {
-      "name": "Muhammad Riziq Muttaqin",
-      "distance_km": 20.2,
-      "activities": 4,
-      "longest_km": 7.2,
-      "elevation_m": 44,
+      "name": "ihsanudin halim Fajrian",
+      "distance_km": 20.0,
+      "activities": 5,
+      "longest_km": 5.1,
+      "elevation_m": 0,
       "gender": "male",
-      "avg_pace": "6:35"
+      "avg_pace": "7:42"
     },
     {
-      "name": "Zildjian Axa",
-      "distance_km": 20.2,
-      "activities": 8,
-      "longest_km": 3.3,
-      "elevation_m": 8,
+      "name": "Kristian Leonardo Pandiangan",
+      "distance_km": 19.5,
+      "activities": 5,
+      "longest_km": 5.0,
+      "elevation_m": 16,
       "gender": "male",
-      "avg_pace": "6:47"
+      "avg_pace": "6:27"
     },
     {
       "name": "Rizal Fadhilah Kamal",
@@ -348,6 +393,24 @@
       "avg_pace": "6:07"
     },
     {
+      "name": "Abim .",
+      "distance_km": 16.5,
+      "activities": 5,
+      "longest_km": 5.0,
+      "elevation_m": 4,
+      "gender": "male",
+      "avg_pace": "6:06"
+    },
+    {
+      "name": "Rifad H",
+      "distance_km": 16.5,
+      "activities": 6,
+      "longest_km": 5.0,
+      "elevation_m": 0,
+      "gender": "male",
+      "avg_pace": "8:56"
+    },
+    {
       "name": "Azhar Rais",
       "distance_km": 16.4,
       "activities": 5,
@@ -355,15 +418,6 @@
       "elevation_m": 0,
       "gender": "male",
       "avg_pace": "6:35"
-    },
-    {
-      "name": "Rifad H",
-      "distance_km": 16.2,
-      "activities": 5,
-      "longest_km": 5.0,
-      "elevation_m": 0,
-      "gender": "male",
-      "avg_pace": "7:10"
     },
     {
       "name": "Arif Satrio Budiman",
@@ -375,15 +429,6 @@
       "avg_pace": "7:08"
     },
     {
-      "name": "Rizky Zaidan",
-      "distance_km": 15.4,
-      "activities": 6,
-      "longest_km": 3.7,
-      "elevation_m": 30,
-      "gender": "male",
-      "avg_pace": "8:14"
-    },
-    {
       "name": "Adrian Axel",
       "distance_km": 15.3,
       "activities": 6,
@@ -393,31 +438,31 @@
       "avg_pace": "6:58"
     },
     {
-      "name": "Abim .",
-      "distance_km": 15.1,
-      "activities": 4,
+      "name": "M Hasan F N",
+      "distance_km": 15.2,
+      "activities": 5,
       "longest_km": 5.0,
-      "elevation_m": 4,
-      "gender": "male",
-      "avg_pace": "5:51"
-    },
-    {
-      "name": "Kristian Leonardo Pandiangan",
-      "distance_km": 15.0,
-      "activities": 4,
-      "longest_km": 5.0,
-      "elevation_m": 11,
-      "gender": "male",
-      "avg_pace": "6:36"
-    },
-    {
-      "name": "ihsanudin halim Fajrian",
-      "distance_km": 14.9,
-      "activities": 4,
-      "longest_km": 5.1,
       "elevation_m": 0,
       "gender": "male",
-      "avg_pace": "7:45"
+      "avg_pace": "5:50"
+    },
+    {
+      "name": "Hafis Ilham",
+      "distance_km": 15.1,
+      "activities": 6,
+      "longest_km": 3.6,
+      "elevation_m": 15,
+      "gender": "male",
+      "avg_pace": "5:34"
+    },
+    {
+      "name": "Rifki Pasha",
+      "distance_km": 14.3,
+      "activities": 4,
+      "longest_km": 5.0,
+      "elevation_m": 2,
+      "gender": "male",
+      "avg_pace": "8:24"
     },
     {
       "name": "Mario Sendy Irawan",
@@ -436,6 +481,15 @@
       "elevation_m": 9,
       "gender": "male",
       "avg_pace": "8:21"
+    },
+    {
+      "name": "Ivan Bakara",
+      "distance_km": 13.8,
+      "activities": 7,
+      "longest_km": 3.0,
+      "elevation_m": 6,
+      "gender": "male",
+      "avg_pace": "6:38"
     },
     {
       "name": "Anggito Satya",
@@ -465,13 +519,31 @@
       "avg_pace": "6:35"
     },
     {
-      "name": "Ivan Bakara",
-      "distance_km": 11.8,
-      "activities": 6,
-      "longest_km": 3.0,
-      "elevation_m": 6,
+      "name": "M. Nadhir Al Ghifary",
+      "distance_km": 13.0,
+      "activities": 3,
+      "longest_km": 5.0,
+      "elevation_m": 0,
       "gender": "male",
-      "avg_pace": "6:35"
+      "avg_pace": "7:13"
+    },
+    {
+      "name": "rivanya noer",
+      "distance_km": 12.7,
+      "activities": 6,
+      "longest_km": 2.8,
+      "elevation_m": 0,
+      "gender": "female",
+      "avg_pace": "7:28"
+    },
+    {
+      "name": "wira ardi",
+      "distance_km": 12.1,
+      "activities": 5,
+      "longest_km": 4.1,
+      "elevation_m": 20,
+      "gender": "male",
+      "avg_pace": "7:17"
     },
     {
       "name": "erlin shfn",
@@ -483,67 +555,31 @@
       "avg_pace": "7:14"
     },
     {
-      "name": "Hafis Ilham",
-      "distance_km": 11.5,
-      "activities": 5,
-      "longest_km": 3.0,
-      "elevation_m": 7,
-      "gender": "male",
-      "avg_pace": "5:32"
-    },
-    {
-      "name": "Rifki Pasha",
-      "distance_km": 11.3,
-      "activities": 3,
-      "longest_km": 5.0,
-      "elevation_m": 2,
-      "gender": "male",
-      "avg_pace": "8:07"
-    },
-    {
-      "name": "rivanya noer",
-      "distance_km": 10.5,
-      "activities": 5,
-      "longest_km": 2.8,
-      "elevation_m": 0,
-      "gender": "female",
-      "avg_pace": "7:29"
-    },
-    {
-      "name": "M Hasan F N",
-      "distance_km": 10.2,
-      "activities": 4,
-      "longest_km": 3.3,
+      "name": "Naufal .",
+      "distance_km": 11.2,
+      "activities": 2,
+      "longest_km": 6.0,
       "elevation_m": 0,
       "gender": "male",
-      "avg_pace": "6:00"
+      "avg_pace": "5:30"
     },
     {
       "name": "Ananda Sembiring",
-      "distance_km": 9.6,
-      "activities": 2,
+      "distance_km": 10.7,
+      "activities": 3,
       "longest_km": 5.0,
       "elevation_m": 0,
       "gender": "male",
-      "avg_pace": "6:13"
+      "avg_pace": "6:22"
     },
     {
-      "name": "wira ardi",
-      "distance_km": 8.1,
-      "activities": 4,
-      "longest_km": 4.1,
-      "elevation_m": 12,
+      "name": "Havergal Samosir",
+      "distance_km": 7.0,
+      "activities": 3,
+      "longest_km": 4.0,
+      "elevation_m": 17,
       "gender": "male",
-      "avg_pace": "7:02"
-    },
-    {
-      "name": "M. Nadhir Al Ghifary",
-      "distance_km": 8.0,
-      "activities": 2,
-      "longest_km": 5.0,
-      "elevation_m": 0,
-      "gender": "male",
-      "avg_pace": "7:18"
+      "avg_pace": "10:39"
     },
     {
       "name": "Much Fazrin",
@@ -582,22 +618,13 @@
       "avg_pace": "7:09"
     },
     {
-      "name": "Naufal .",
-      "distance_km": 6.0,
+      "name": "Rizal Mld",
+      "distance_km": 5.1,
       "activities": 1,
-      "longest_km": 6.0,
+      "longest_km": 5.1,
       "elevation_m": 0,
       "gender": "male",
-      "avg_pace": "5:28"
-    },
-    {
-      "name": "Havergal Samosir",
-      "distance_km": 5.3,
-      "activities": 2,
-      "longest_km": 4.0,
-      "elevation_m": 17,
-      "gender": "male",
-      "avg_pace": "11:00"
+      "avg_pace": "7:18"
     },
     {
       "name": "Abdullah Syahid",
@@ -618,13 +645,13 @@
       "avg_pace": "7:02"
     },
     {
-      "name": "Christophorus Gerard Marvin",
+      "name": "Gafirat Wira",
       "distance_km": 5.0,
-      "activities": 1,
-      "longest_km": 5.0,
+      "activities": 2,
+      "longest_km": 3.0,
       "elevation_m": 11,
       "gender": "male",
-      "avg_pace": "6:36"
+      "avg_pace": "6:24"
     },
     {
       "name": "Ghazian Milzam",
@@ -634,6 +661,33 @@
       "elevation_m": 7,
       "gender": "male",
       "avg_pace": "7:08"
+    },
+    {
+      "name": "Fauzan Ikromi",
+      "distance_km": 4.4,
+      "activities": 2,
+      "longest_km": 3.4,
+      "elevation_m": 0,
+      "gender": "male",
+      "avg_pace": "7:26"
+    },
+    {
+      "name": "Daffa Tsany",
+      "distance_km": 4.0,
+      "activities": 2,
+      "longest_km": 2.5,
+      "elevation_m": 6,
+      "gender": "male",
+      "avg_pace": "8:14"
+    },
+    {
+      "name": "Jabalnur Jabalnur",
+      "distance_km": 3.9,
+      "activities": 2,
+      "longest_km": 2.2,
+      "elevation_m": 0,
+      "gender": "male",
+      "avg_pace": "7:19"
     },
     {
       "name": "P. Komarudin",
@@ -654,15 +708,6 @@
       "avg_pace": "8:20"
     },
     {
-      "name": "Gafirat Wira",
-      "distance_km": 3.0,
-      "activities": 1,
-      "longest_km": 3.0,
-      "elevation_m": 11,
-      "gender": "male",
-      "avg_pace": "6:47"
-    },
-    {
       "name": "Ginan Maulana Muqaddam",
       "distance_km": 2.5,
       "activities": 1,
@@ -670,6 +715,15 @@
       "elevation_m": 7,
       "gender": "male",
       "avg_pace": "6:03"
+    },
+    {
+      "name": "Kevin Rehuel",
+      "distance_km": 2.4,
+      "activities": 3,
+      "longest_km": 1.0,
+      "elevation_m": 0,
+      "gender": "male",
+      "avg_pace": "6:00"
     },
     {
       "name": "Soma Ilhamsyah",
@@ -681,22 +735,13 @@
       "avg_pace": "6:58"
     },
     {
-      "name": "Daffa Tsany",
-      "distance_km": 1.5,
+      "name": "Winda Ayu L",
+      "distance_km": 1.6,
       "activities": 1,
-      "longest_km": 1.5,
-      "elevation_m": 6,
-      "gender": "male",
-      "avg_pace": "8:16"
-    },
-    {
-      "name": "Kevin Rehuel",
-      "distance_km": 1.4,
-      "activities": 2,
-      "longest_km": 1.0,
+      "longest_km": 1.6,
       "elevation_m": 0,
       "gender": "male",
-      "avg_pace": "6:12"
+      "avg_pace": "8:30"
     },
     {
       "name": "Amelia Rizky",
@@ -706,15 +751,6 @@
       "elevation_m": 0,
       "gender": "female",
       "avg_pace": "6:56"
-    },
-    {
-      "name": "Fauzan Ikromi",
-      "distance_km": 1.0,
-      "activities": 1,
-      "longest_km": 1.0,
-      "elevation_m": 0,
-      "gender": "male",
-      "avg_pace": "6:50"
     },
     {
       "name": "Nazwa Adlina",

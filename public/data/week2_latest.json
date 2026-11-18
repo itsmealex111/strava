@@ -56,6 +56,14 @@
     "elevation_m": 0
   },
   {
+    "name": "Christophorus Gerard Marvin",
+    "distance_km": 31.0,
+    "activities": 7,
+    "longest_km": 10.1,
+    "pace_sec": 438,
+    "elevation_m": 52
+  },
+  {
     "name": "Sigi Sitepu",
     "distance_km": 28.6,
     "activities": 7,
@@ -70,14 +78,6 @@
     "longest_km": 9.8,
     "pace_sec": 455,
     "elevation_m": 46
-  },
-  {
-    "name": "Riska NA",
-    "distance_km": 23.8,
-    "activities": 5,
-    "longest_km": 7.0,
-    "pace_sec": 407,
-    "elevation_m": 62
   },
   {
     "name": "Anggit D",
@@ -102,6 +102,14 @@
     "longest_km": 7.6,
     "pace_sec": 323,
     "elevation_m": 23
+  },
+  {
+    "name": "Riska NA",
+    "distance_km": 19.7,
+    "activities": 4,
+    "longest_km": 7.0,
+    "pace_sec": 406,
+    "elevation_m": 56
   },
   {
     "name": "Dhio Novansyah",
@@ -158,14 +166,6 @@
     "longest_km": 5.1,
     "pace_sec": 568,
     "elevation_m": 15
-  },
-  {
-    "name": "Marvel Adam",
-    "distance_km": 16.6,
-    "activities": 4,
-    "longest_km": 7.0,
-    "pace_sec": 3993,
-    "elevation_m": 3
   },
   {
     "name": "Nyoman Wiyana",
@@ -232,6 +232,14 @@
     "elevation_m": 9
   },
   {
+    "name": "Marvel Adam",
+    "distance_km": 11.8,
+    "activities": 4,
+    "longest_km": 3.2,
+    "pace_sec": 379,
+    "elevation_m": 3
+  },
+  {
     "name": "Axa Daffaxa",
     "distance_km": 11.7,
     "activities": 3,
@@ -278,6 +286,14 @@
     "longest_km": 9.9,
     "pace_sec": 555,
     "elevation_m": 14
+  },
+  {
+    "name": "Andrean Dicky Octafilianus",
+    "distance_km": 9.7,
+    "activities": 3,
+    "longest_km": 3.5,
+    "pace_sec": 343,
+    "elevation_m": 0
   },
   {
     "name": "Arif Satrio Budiman",
@@ -478,6 +494,14 @@
     "longest_km": 3.7,
     "pace_sec": 389,
     "elevation_m": 2
+  },
+  {
+    "name": "Fauzan Ikromi",
+    "distance_km": 3.4,
+    "activities": 1,
+    "longest_km": 3.4,
+    "pace_sec": 457,
+    "elevation_m": 0
   },
   {
     "name": "erlin shfn",

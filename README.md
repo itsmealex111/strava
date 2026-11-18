@@ -1,6 +1,6 @@
 # Soedirman Strava Challenge 2026 — GitHub Update
 
-Update data: 17 November 2026
+Update data: 18 November 2026
 
 ## Data included
 - `public/data/week1.json`: Week 1 final snapshot (68 participants)
