@@ -32,10 +32,10 @@ function MiniChart({title,unit,values,average,lowerIsBetter=false}:{title:string
   <div className="chartLegend"><span><i className="youDot"/> Peserta</span><span><i className="avgDot"/> Rata-rata peserta</span></div>
  </section>
 }
-export function generateStaticParams(){return leaderboard.participants.map(p=>({slug:encodeURIComponent(p.name)}))}
+export function generateStaticParams(){return leaderboard.participants.map(p=>({slug:p.name}))}
 export default async function AthletePage({params}:{params:Promise<{slug:string}>}){
  const {slug}=await params;
- const name=decodeURIComponent(slug);
+ const name=slug;
  const person=leaderboard.participants.find(p=>key(p.name)===key(name));
  if(!person)return <main className="shell"><Link href="/">← Kembali ke leaderboard</Link><p>Peserta tidak ditemukan.</p></main>;
  const weekly=weeks.map(w=>{

@@ -1,21 +1,16 @@
-# Soedirman Strava Challenge 2026 — GitHub Update
+# Soedirman Strava Challenge 2026 — Dashboard Interaktif
 
 Update data: 20 November 2026
 
-## Data included
-- `public/data/week1.json`: Week 1 final snapshot (68 participants)
-- `public/data/week2_latest.json`: Week 2 final snapshot (67 participants)
-- `public/data/week3_latest.json`: latest cumulative Week 3 snapshot (52 participants)
-- `public/leaderboard.json`: combined overall leaderboard (82 unique participants)
-- `public/gender.json`: gender mapping (10 women; all others default to men)
-- `app/page.tsx`: website update label
-
-## Current summary
-- Total distance: 2074.5 km
-- Total activities: 466
-- Participants >= 30 km: 27
+## Perbaikan pada versi ini
+- Nama peserta pada leaderboard menggunakan navigasi Next.js `Link` menuju halaman profil.
+- Parameter `generateStaticParams()` menggunakan nama peserta asli sebagai slug, bukan slug yang sudah di-URL-encode. Ini menghindari ketidakcocokan URL pada halaman profil hasil static generation.
+- Halaman profil menampilkan ringkasan mingguan Week 1, Week 2, dan Week 3 serta grafik jarak, estimasi durasi, average pace, dan elevation dibandingkan rata-rata peserta.
 
 ## Deploy
-Replace the project files in your GitHub repository with the contents of this ZIP, commit to the branch connected to Vercel, and wait for deployment to show Ready.
+1. Ekstrak ZIP.
+2. Ganti file project di repository GitHub dengan seluruh isi ZIP.
+3. Commit dan push ke branch yang terhubung ke Vercel.
+4. Tunggu deployment selesai, lalu buka leaderboard dan klik nama peserta.
 
-For future updates, replace `week3_latest.json` with the newest cumulative Week 3 snapshot. Do not add two cumulative Week 3 snapshots together. At the start of a new week, retain finalized earlier-week data and use the latest cumulative snapshot for the current week.
+Catatan: build belum dapat diverifikasi di lingkungan ini karena proses `npm install` mengalami timeout. Setelah deployment, jika halaman profil masih belum terbuka, kirimkan URL halaman yang muncul atau screenshot error agar bisa ditelusuri lebih lanjut.
