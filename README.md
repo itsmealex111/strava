@@ -1,16 +1,17 @@
-# Soedirman Strava Challenge 2026 — Dashboard Interaktif
+# Soedirman Strava Challenge Dashboard
 
-Update data: 20 November 2026
+Leaderboard dashboard for Soedirman Runners Challenge, 2–30 November 2026.
 
-## Perbaikan pada versi ini
-- Nama peserta pada leaderboard menggunakan navigasi Next.js `Link` menuju halaman profil.
-- Parameter `generateStaticParams()` menggunakan nama peserta asli sebagai slug, bukan slug yang sudah di-URL-encode. Ini menghindari ketidakcocokan URL pada halaman profil hasil static generation.
-- Halaman profil menampilkan ringkasan mingguan Week 1, Week 2, dan Week 3 serta grafik jarak, estimasi durasi, average pace, dan elevation dibandingkan rata-rata peserta.
+## Update / deploy
+1. Extract this ZIP.
+2. Replace the repository files with the extracted contents.
+3. Commit and push to the `main` branch.
+4. Vercel will deploy the update automatically.
 
-## Deploy
-1. Ekstrak ZIP.
-2. Ganti file project di repository GitHub dengan seluruh isi ZIP.
-3. Commit dan push ke branch yang terhubung ke Vercel.
-4. Tunggu deployment selesai, lalu buka leaderboard dan klik nama peserta.
+## Current dashboard
+- Overall leaderboard using Week 1 final + latest Week 2 + latest Week 3 snapshot (20 November 2026).
+- Search, participant filters, and leaderboard sorting.
+- Visual theme: dark navy / charcoal with warm red accents.
+- Runner photography used as subdued backgrounds to preserve text contrast.
 
-Catatan: build belum dapat diverifikasi di lingkungan ini karena proses `npm install` mengalami timeout. Setelah deployment, jika halaman profil masih belum terbuka, kirimkan URL halaman yang muncul atau screenshot error agar bisa ditelusuri lebih lanjut.
+The dashboard intentionally uses a single leaderboard view; athlete profile drill-down pages have been removed.
