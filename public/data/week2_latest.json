@@ -528,6 +528,14 @@
     "elevation_m": 0
   },
   {
+    "name": "Ananda Fadhil",
+    "distance_km": 2.0,
+    "activities": 2,
+    "longest_km": 1.8,
+    "pace_sec": 410,
+    "elevation_m": 0
+  },
+  {
     "name": "Muhamad Rizky Prima",
     "distance_km": 2.0,
     "activities": 1,
