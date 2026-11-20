@@ -1,5 +1,5 @@
 # Soedirman Strava Challenge Dashboard
 
-Dashboard update: 20 November 2026.
+Update data 20 November 2026. Week 1 remains fixed; Week 2 and Week 3 have been replaced with the latest cumulative snapshots supplied on 20 November. Overall totals are recalculated as Week 1 + latest Week 2 + latest Week 3.
 
-The hero banner uses the supplied Soedirman Runners and P3MDI logo files as image overlays without AI redraw. Replace the repository contents with this ZIP and push to `main` to trigger Vercel deployment.
+Deploy: replace repository files with this ZIP, commit and push to main; Vercel deploys automatically.

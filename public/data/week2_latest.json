@@ -328,6 +328,14 @@
     "elevation_m": 319
   },
   {
+    "name": "Much Fazrin",
+    "distance_km": 8.5,
+    "activities": 2,
+    "longest_km": 5.0,
+    "pace_sec": 401,
+    "elevation_m": 9
+  },
+  {
     "name": "Luthfi Ridanta",
     "distance_km": 8.2,
     "activities": 2,
@@ -456,14 +464,6 @@
     "elevation_m": 0
   },
   {
-    "name": "Much Fazrin",
-    "distance_km": 5.0,
-    "activities": 1,
-    "longest_km": 5.0,
-    "pace_sec": 354,
-    "elevation_m": 2
-  },
-  {
     "name": "M. Nadhir Al Ghifary",
     "distance_km": 5.0,
     "activities": 1,
@@ -518,6 +518,14 @@
     "longest_km": 3.0,
     "pace_sec": 496,
     "elevation_m": 0
+  },
+  {
+    "name": "Muhammad Syairozy Syauqi",
+    "distance_km": 2.9,
+    "activities": 1,
+    "longest_km": 2.9,
+    "pace_sec": 404,
+    "elevation_m": 7
   },
   {
     "name": "Ratnasari Murprayana",
