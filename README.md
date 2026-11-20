@@ -19,6 +19,3 @@ Update data: 20 November 2026
 Replace the project files in your GitHub repository with the contents of this ZIP, commit to the branch connected to Vercel, and wait for deployment to show Ready.
 
 For future updates, replace `week3_latest.json` with the newest cumulative Week 3 snapshot. Do not add two cumulative Week 3 snapshots together. At the start of a new week, retain finalized earlier-week data and use the latest cumulative snapshot for the current week.
-
-## Athlete background image credits
-The hero background uses athlete photographs hosted by Wikimedia Commons. Attribution: Jakob Ingebrigtsen — Radek Kucharski (CC BY 2.0); Eliud Kipchoge — The Wolf (CC BY 2.0); Sabastian Sawe — Leonhard Lenz (CC0); Yomif Kejelcha — Filip Bossuyt (CC BY 2.0). Images are loaded from Wikimedia Commons Special:FilePath URLs. The photographs are darkened, desaturated, cropped, and composited as a background; no endorsement is implied.

@@ -27,12 +27,6 @@ export default function Home() {
  return <main className="shell">
   <header className="hero">
    <div className="brand"><img className="brandLogo" src="/images/soedirman-runners.png" alt="Logo Soedirman Runners"/><span className="brandDivider"></span><img className="p3mdiLogo" src="/images/p3mdi.png" alt="Logo P3MDI"/><span className="eventtag">CHALLENGE 2026</span></div>
-   <div className="heroAthletes" aria-hidden="true">
-    <img className="runner runnerJakob" src="https://commons.wikimedia.org/wiki/Special:FilePath/Jakob_Ingebrigtsen.jpg" alt="" />
-    <img className="runner runnerEliud" src="https://commons.wikimedia.org/wiki/Special:FilePath/Eliud_Kipchoge.jpg" alt="" />
-    <img className="runner runnerSawe" src="https://commons.wikimedia.org/wiki/Special:FilePath/Sabastian_Sawe_(KEN)_2025.jpg" alt="" />
-    <img className="runner runnerYomif" src="https://commons.wikimedia.org/wiki/Special:FilePath/Yomif_Kejelcha_2023_(cropped).jpg" alt="" />
-   </div>
    <div className="heroCopy"><p className="eyebrow">2 — 30 NOVEMBER 2026</p><h1>SOEDIRMAN<br/><em>STRAVA CHALLENGE</em></h1><p className="sub">Run your distance. Push your limits. Earn your place.</p></div>
    <div className="heroFoot"><span>BERANI · CEPAT · TERHORMAT</span><span>LEADERBOARD UPDATE: 20 NOV 2026</span></div>
   </header>
@@ -50,6 +44,6 @@ export default function Home() {
    </tbody></table>{participants.length===0&&<p className="empty">Peserta tidak ditemukan.</p>}</div>
    <div className="boardFoot"><span>Menampilkan {participants.length} dari {data.participants.length} peserta</span><span>Lucky Finisher: akumulasi minimal 30 km*</span></div>
   </section>
-  <footer><div className="footerBrand"><img src="/images/soedirman-runners.png" alt="Soedirman Runners"/><img src="/images/p3mdi.png" alt="P3MDI"/></div><span className="footerNotes">*Top 3 putra dan putri akan dikecualikan dari grand prize draw setelah kategori gender diverifikasi.<br/>Background athletes: Radek Kucharski, The Wolf, Leonhard Lenz &amp; Filip Bossuyt / Wikimedia Commons.</span></footer>
+  <footer><div className="footerBrand"><img src="/images/soedirman-runners.png" alt="Soedirman Runners"/><img src="/images/p3mdi.png" alt="P3MDI"/></div><span>*Top 3 putra dan putri akan dikecualikan dari grand prize draw setelah kategori gender diverifikasi.</span></footer>
  </main>;
 }
