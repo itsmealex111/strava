@@ -26,9 +26,7 @@ export default function Home() {
  const eligible=data.participants.filter(p=>p.distance_km>=30).length;
  return <main className="shell">
   <header className="hero">
-   <div className="brand"><img className="brandLogo" src="/images/soedirman-runners.png" alt="Logo Soedirman Runners"/><span className="brandDivider"></span><img className="p3mdiLogo" src="/images/p3mdi.png" alt="Logo P3MDI"/><span className="eventtag">CHALLENGE 2026</span></div>
-   <div className="heroCopy"><p className="eyebrow">2 — 30 NOVEMBER 2026</p><h1>SOEDIRMAN<br/><em>STRAVA CHALLENGE</em></h1><p className="sub">Run your distance. Push your limits. Earn your place.</p></div>
-   <div className="heroFoot"><span>BERANI · CEPAT · TERHORMAT</span><span>LEADERBOARD UPDATE: 20 NOV 2026</span></div>
+   <img className="heroBanner" src="/images/dashboard-banner.png" alt="Soedirman Strava Challenge 2026 dengan Eliud Kipchoge dan Jakob Ingebrigtsen"/>
   </header>
   <section className="stats">
    <article><span>TOTAL PESERTA</span><strong>{data.participants.length}</strong><small>athletes</small></article>

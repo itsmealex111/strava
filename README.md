@@ -1,17 +1,13 @@
 # Soedirman Strava Challenge Dashboard
 
-Leaderboard dashboard for Soedirman Runners Challenge, 2–30 November 2026.
+## Update 20 November 2026
 
-## Update / deploy
-1. Extract this ZIP.
-2. Replace the repository files with the extracted contents.
-3. Commit and push to the `main` branch.
-4. Vercel will deploy the update automatically.
+Dashboard leaderboard dengan tema dark navy, merah, dan putih. Header menggunakan banner final yang memadukan foto Eliud Kipchoge dan Jakob Ingebrigtsen sesuai desain yang diberikan.
 
-## Current dashboard
-- Overall leaderboard using Week 1 final + latest Week 2 + latest Week 3 snapshot (20 November 2026).
-- Search, participant filters, and leaderboard sorting.
-- Visual theme: dark navy / charcoal with warm red accents.
-- Runner photography used as subdued backgrounds to preserve text contrast.
+Fitur yang dipertahankan: pencarian peserta, filter Lucky Finisher (minimal 30 km), dan sorting berdasarkan jarak, aktivitas, average pace, estimasi total time, serta elevasi.
 
-The dashboard intentionally uses a single leaderboard view; athlete profile drill-down pages have been removed.
+## Deploy
+1. Extract ZIP.
+2. Replace seluruh file repository GitHub dengan isi ZIP.
+3. Commit dan push ke branch `main`.
+4. Vercel akan melakukan deployment otomatis.
