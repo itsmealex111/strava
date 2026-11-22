@@ -216,20 +216,20 @@
     "elevation_m": 10
   },
   {
+    "name": "Rais Mahdi",
+    "distance_km": 13.8,
+    "activities": 6,
+    "longest_km": 3.4,
+    "pace_sec": 500,
+    "elevation_m": 9
+  },
+  {
     "name": "Rizky Zaidan",
     "distance_km": 12.8,
     "activities": 4,
     "longest_km": 3.7,
     "pace_sec": 509,
     "elevation_m": 22
-  },
-  {
-    "name": "Rais Mahdi",
-    "distance_km": 12.3,
-    "activities": 5,
-    "longest_km": 3.4,
-    "pace_sec": 509,
-    "elevation_m": 9
   },
   {
     "name": "Marvel Adam",
@@ -440,6 +440,14 @@
     "elevation_m": 0
   },
   {
+    "name": "Calvin Mahardika",
+    "distance_km": 5.1,
+    "activities": 1,
+    "longest_km": 5.1,
+    "pace_sec": 464,
+    "elevation_m": 13
+  },
+  {
     "name": "Abdullah Syahid",
     "distance_km": 5.0,
     "activities": 1,
@@ -536,11 +544,11 @@
     "elevation_m": 0
   },
   {
-    "name": "Ananda Fadhil",
-    "distance_km": 2.0,
+    "name": "Fath Rajihan",
+    "distance_km": 2.1,
     "activities": 2,
     "longest_km": 1.8,
-    "pace_sec": 410,
+    "pace_sec": 371,
     "elevation_m": 0
   },
   {
@@ -550,6 +558,14 @@
     "longest_km": 2.0,
     "pace_sec": 340,
     "elevation_m": 8
+  },
+  {
+    "name": "Ananda Fadhil",
+    "distance_km": 1.8,
+    "activities": 1,
+    "longest_km": 1.8,
+    "pace_sec": 408,
+    "elevation_m": 0
   },
   {
     "name": "ihsanudin halim Fajrian",
