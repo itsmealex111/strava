@@ -1,7 +1,13 @@
 # Soedirman Strava Challenge Dashboard
 
-Data update: 22 November 2026. Week 1 remains fixed. Week 2 has been replaced with the corrected snapshot and Week 3 with the latest snapshot supplied on 22 November 2026. Overall leaderboard = Week 1 + latest Week 2 + latest Week 3.
+Leaderboard data: 22 November 2026.
 
-Duplicate repeated display names are normalized. Naufal . and Naufal Argy remain separate participants. Elevation values marked -- are treated as 0 m. Average pace is distance-weighted.
+## Gender categories
+- 14 participants are categorized as Wanita based on the user's confirmed list.
+- All other participants (83) default to Pria.
+- Use the gender dropdown to view all participants, Pria, or Wanita.
+- When a gender category is selected, rank numbers are recalculated within that category and follow the selected sort order.
+- Gender labels are shown in the leaderboard table.
 
-Deploy: extract this ZIP, replace repository files, commit and push to main; Vercel deploys automatically.
+## Deploy
+Replace the repository contents with this ZIP, commit and push to `main`; Vercel should deploy automatically.
