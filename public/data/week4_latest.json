@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Dep Fr",
+    "distance_km": 12.0,
+    "activities": 2,
+    "longest_km": 6.0,
+    "pace_sec": 397,
+    "elevation_m": 20
+  },
+  {
+    "name": "Iqbal Fahrudin",
+    "distance_km": 11.9,
+    "activities": 2,
+    "longest_km": 6.0,
+    "pace_sec": 426,
+    "elevation_m": 0
+  },
+  {
+    "name": "Sigi Sitepu",
+    "distance_km": 10.3,
+    "activities": 1,
+    "longest_km": 10.3,
+    "pace_sec": 336,
+    "elevation_m": 0
+  },
+  {
+    "name": "Leonarsa Friendly Hutapea",
+    "distance_km": 9.1,
+    "activities": 3,
+    "longest_km": 3.3,
+    "pace_sec": 385,
+    "elevation_m": 9
+  },
+  {
+    "name": "Viandra Diarsa",
+    "distance_km": 8.1,
+    "activities": 1,
+    "longest_km": 8.1,
+    "pace_sec": 396,
+    "elevation_m": 14
+  },
+  {
+    "name": "Ivan Bakara",
+    "distance_km": 7.6,
+    "activities": 3,
+    "longest_km": 3.1,
+    "pace_sec": 402,
+    "elevation_m": 0
+  },
+  {
+    "name": "Rizky Zaidan",
+    "distance_km": 7.0,
+    "activities": 1,
+    "longest_km": 7.0,
+    "pace_sec": 1229,
+    "elevation_m": 40
+  },
+  {
+    "name": "Anggit D",
+    "distance_km": 7.0,
+    "activities": 1,
+    "longest_km": 7.0,
+    "pace_sec": 377,
+    "elevation_m": 13
+  },
+  {
+    "name": "Ilham E3",
+    "distance_km": 7.0,
+    "activities": 1,
+    "longest_km": 7.0,
+    "pace_sec": 407,
+    "elevation_m": 6
+  },
+  {
+    "name": "Farhan Fadil",
+    "distance_km": 6.1,
+    "activities": 2,
+    "longest_km": 3.1,
+    "pace_sec": 617,
+    "elevation_m": 0
+  },
+  {
+    "name": "Christophorus Gerard Marvin",
+    "distance_km": 5.7,
+    "activities": 2,
+    "longest_km": 3.8,
+    "pace_sec": 442,
+    "elevation_m": 0
+  },
+  {
+    "name": "ihsanudin halim Fajrian",
+    "distance_km": 5.1,
+    "activities": 1,
+    "longest_km": 5.1,
+    "pace_sec": 488,
+    "elevation_m": 0
+  },
+  {
+    "name": "Andrean Dicky Octafilianus",
+    "distance_km": 5.1,
+    "activities": 1,
+    "longest_km": 5.1,
+    "pace_sec": 464,
+    "elevation_m": 0
+  },
+  {
+    "name": "Mario Sendy Irawan",
+    "distance_km": 5.0,
+    "activities": 1,
+    "longest_km": 5.0,
+    "pace_sec": 469,
+    "elevation_m": 7
+  },
+  {
+    "name": "Arif Satrio Budiman",
+    "distance_km": 5.0,
+    "activities": 1,
+    "longest_km": 5.0,
+    "pace_sec": 420,
+    "elevation_m": 13
+  },
+  {
+    "name": "Ananda Sembiring",
+    "distance_km": 5.0,
+    "activities": 1,
+    "longest_km": 5.0,
+    "pace_sec": 446,
+    "elevation_m": 8
+  },
+  {
+    "name": "M. Nadhir Al Ghifary",
+    "distance_km": 5.0,
+    "activities": 1,
+    "longest_km": 5.0,
+    "pace_sec": 409,
+    "elevation_m": 0
+  },
+  {
+    "name": "Rizal Fadhilah Kamal",
+    "distance_km": 5.0,
+    "activities": 1,
+    "longest_km": 5.0,
+    "pace_sec": 464,
+    "elevation_m": 8
+  },
+  {
+    "name": "ahmad zaki",
+    "distance_km": 5.0,
+    "activities": 1,
+    "longest_km": 5.0,
+    "pace_sec": 478,
+    "elevation_m": 12
+  },
+  {
+    "name": "Much Fazrin",
+    "distance_km": 5.0,
+    "activities": 1,
+    "longest_km": 5.0,
+    "pace_sec": 337,
+    "elevation_m": 0
+  },
+  {
+    "name": "Rifki Pasha",
+    "distance_km": 4.9,
+    "activities": 1,
+    "longest_km": 4.9,
+    "pace_sec": 501,
+    "elevation_m": 0
+  },
+  {
+    "name": "L ndro",
+    "distance_km": 4.1,
+    "activities": 1,
+    "longest_km": 4.1,
+    "pace_sec": 327,
+    "elevation_m": 0
+  },
+  {
+    "name": "Dhavi Akhmad Syaiful",
+    "distance_km": 4.1,
+    "activities": 1,
+    "longest_km": 4.1,
+    "pace_sec": 554,
+    "elevation_m": 0
+  },
+  {
+    "name": "Fath Rajihan",
+    "distance_km": 3.6,
+    "activities": 1,
+    "longest_km": 3.6,
+    "pace_sec": 334,
+    "elevation_m": 0
+  },
+  {
+    "name": "Barran Maulana",
+    "distance_km": 3.3,
+    "activities": 1,
+    "longest_km": 3.3,
+    "pace_sec": 361,
+    "elevation_m": 1
+  },
+  {
+    "name": "Cindy M",
+    "distance_km": 3.2,
+    "activities": 1,
+    "longest_km": 3.2,
+    "pace_sec": 506,
+    "elevation_m": 0
+  },
+  {
+    "name": "Gafirat Wira",
+    "distance_km": 3.2,
+    "activities": 1,
+    "longest_km": 3.2,
+    "pace_sec": 392,
+    "elevation_m": 7
+  },
+  {
+    "name": "Amelia Rizky",
+    "distance_km": 3.2,
+    "activities": 1,
+    "longest_km": 3.2,
+    "pace_sec": 510,
+    "elevation_m": 0
+  },
+  {
+    "name": "Alif belajar lari",
+    "distance_km": 3.1,
+    "activities": 1,
+    "longest_km": 3.1,
+    "pace_sec": 511,
+    "elevation_m": 0
+  },
+  {
+    "name": "Iqbal Nurpasha",
+    "distance_km": 3.1,
+    "activities": 1,
+    "longest_km": 3.1,
+    "pace_sec": 465,
+    "elevation_m": 7
+  },
+  {
+    "name": "Rifad H",
+    "distance_km": 3.1,
+    "activities": 1,
+    "longest_km": 3.1,
+    "pace_sec": 457,
+    "elevation_m": 0
+  },
+  {
+    "name": "Luthfi Ridanta",
+    "distance_km": 3.0,
+    "activities": 1,
+    "longest_km": 3.0,
+    "pace_sec": 404,
+    "elevation_m": 0
+  },
+  {
+    "name": "rivanya noer",
+    "distance_km": 3.0,
+    "activities": 1,
+    "longest_km": 3.0,
+    "pace_sec": 414,
+    "elevation_m": 0
+  },
+  {
+    "name": "Febrian Aufa",
+    "distance_km": 3.0,
+    "activities": 1,
+    "longest_km": 3.0,
+    "pace_sec": 468,
+    "elevation_m": 3
+  },
+  {
+    "name": "Rijalul Ihsan",
+    "distance_km": 3.0,
+    "activities": 1,
+    "longest_km": 3.0,
+    "pace_sec": 329,
+    "elevation_m": 0
+  },
+  {
+    "name": "zein nurrahman",
+    "distance_km": 3.0,
+    "activities": 1,
+    "longest_km": 3.0,
+    "pace_sec": 438,
+    "elevation_m": 0
+  },
+  {
+    "name": "wira ardi",
+    "distance_km": 3.0,
+    "activities": 1,
+    "longest_km": 3.0,
+    "pace_sec": 460,
+    "elevation_m": 8
+  },
+  {
+    "name": "erlin shfn",
+    "distance_km": 3.0,
+    "activities": 1,
+    "longest_km": 3.0,
+    "pace_sec": 401,
+    "elevation_m": 0
+  },
+  {
+    "name": "Daffa Tsany",
+    "distance_km": 2.9,
+    "activities": 1,
+    "longest_km": 2.9,
+    "pace_sec": 535,
+    "elevation_m": 0
+  },
+  {
+    "name": "Andrew .",
+    "distance_km": 2.8,
+    "activities": 1,
+    "longest_km": 2.8,
+    "pace_sec": 521,
+    "elevation_m": 0
+  },
+  {
+    "name": "Cahya Farhan Muhammad",
+    "distance_km": 2.8,
+    "activities": 1,
+    "longest_km": 2.8,
+    "pace_sec": 463,
+    "elevation_m": 2
+  },
+  {
+    "name": "Andika Alamsyah",
+    "distance_km": 2.7,
+    "activities": 1,
+    "longest_km": 2.7,
+    "pace_sec": 622,
+    "elevation_m": 0
+  },
+  {
+    "name": "Dhio Novansyah",
+    "distance_km": 2.7,
+    "activities": 1,
+    "longest_km": 2.7,
+    "pace_sec": 489,
+    "elevation_m": 7
+  },
+  {
+    "name": "Dafa Komarudin",
+    "distance_km": 2.5,
+    "activities": 1,
+    "longest_km": 2.5,
+    "pace_sec": 353,
+    "elevation_m": 0
+  },
+  {
+    "name": "Riska NA",
+    "distance_km": 2.0,
+    "activities": 1,
+    "longest_km": 2.0,
+    "pace_sec": 355,
+    "elevation_m": 0
+  },
+  {
+    "name": "Calvin Putra",
+    "distance_km": 2.0,
+    "activities": 1,
+    "longest_km": 2.0,
+    "pace_sec": 408,
+    "elevation_m": 30
+  },
+  {
+    "name": "Nyoman Wiyana",
+    "distance_km": 1.8,
+    "activities": 1,
+    "longest_km": 1.8,
+    "pace_sec": 362,
+    "elevation_m": 0
+  },
+  {
+    "name": "Zildjian Axa",
+    "distance_km": 1.3,
+    "activities": 1,
+    "longest_km": 1.3,
+    "pace_sec": 368,
+    "elevation_m": 0
+  },
+  {
+    "name": "Abim .",
+    "distance_km": 1.2,
+    "activities": 1,
+    "longest_km": 1.2,
+    "pace_sec": 444,
+    "elevation_m": 0
+  },
+  {
+    "name": "Hafis Ilham",
+    "distance_km": 1.0,
+    "activities": 1,
+    "longest_km": 1.0,
+    "pace_sec": 285,
+    "elevation_m": 0
+  },
+  {
+    "name": "Er rrr",
+    "distance_km": 0.7,
+    "activities": 1,
+    "longest_km": 0.7,
+    "pace_sec": 585,
+    "elevation_m": 0
+  }
+]

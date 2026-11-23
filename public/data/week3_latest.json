@@ -224,6 +224,14 @@
     "elevation_m": 14
   },
   {
+    "name": "Febrian Aufa",
+    "distance_km": 18.9,
+    "activities": 3,
+    "longest_km": 10.2,
+    "pace_sec": 421,
+    "elevation_m": 10
+  },
+  {
     "name": "Savero Ananda",
     "distance_km": 18.4,
     "activities": 5,
@@ -616,11 +624,35 @@
     "elevation_m": 0
   },
   {
+    "name": "Yunanto Budi Prasetyo",
+    "distance_km": 1.9,
+    "activities": 1,
+    "longest_km": 1.9,
+    "pace_sec": 476,
+    "elevation_m": 0
+  },
+  {
+    "name": "Rijalul Ihsan",
+    "distance_km": 1.7,
+    "activities": 1,
+    "longest_km": 1.7,
+    "pace_sec": 347,
+    "elevation_m": 0
+  },
+  {
     "name": "Havergal Samosir",
     "distance_km": 1.7,
     "activities": 1,
     "longest_km": 1.7,
     "pace_sec": 574,
+    "elevation_m": 0
+  },
+  {
+    "name": "Raden Rafi",
+    "distance_km": 1.6,
+    "activities": 1,
+    "longest_km": 1.6,
+    "pace_sec": 429,
     "elevation_m": 0
   },
   {
