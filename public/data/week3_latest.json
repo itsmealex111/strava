@@ -465,10 +465,10 @@
   },
   {
     "name": "Aminah Arla",
-    "distance_km": 6.4,
-    "activities": 2,
-    "longest_km": 3.3,
-    "pace_sec": 465,
+    "distance_km": 9.45,
+    "activities": 3,
+    "longest_km": 3.35,
+    "pace_sec": 457,
     "elevation_m": 0
   },
   {
@@ -709,6 +709,30 @@
     "activities": 1,
     "longest_km": 0.1,
     "pace_sec": 298,
+    "elevation_m": 0
+  },
+  {
+    "name": "Elloy Yabest",
+    "distance_km": 7.8,
+    "activities": 4,
+    "longest_km": 3.4,
+    "pace_sec": 461,
+    "elevation_m": 0
+  },
+  {
+    "name": "Nashih Ulwan",
+    "distance_km": 2.5,
+    "activities": 1,
+    "longest_km": 2.5,
+    "pace_sec": 531,
+    "elevation_m": 0
+  },
+  {
+    "name": "Hudhud _",
+    "distance_km": 1.6,
+    "activities": 1,
+    "longest_km": 1.6,
+    "pace_sec": 390,
     "elevation_m": 0
   }
 ]

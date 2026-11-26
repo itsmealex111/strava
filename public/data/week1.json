@@ -257,8 +257,8 @@
   },
   {
     "name": "ahmad zaki",
-    "distance_km": 7.3,
-    "activities": 1,
+    "distance_km": 19.22,
+    "activities": 5,
     "longest_km": 7.3,
     "pace_sec": 416,
     "elevation_m": 16
@@ -541,6 +541,14 @@
     "activities": 1,
     "longest_km": 0.4,
     "pace_sec": 567,
+    "elevation_m": 0
+  },
+  {
+    "name": "Aminah Arla",
+    "distance_km": 11.34,
+    "activities": 3,
+    "longest_km": 5.0,
+    "pace_sec": null,
     "elevation_m": 0
   }
 ]
