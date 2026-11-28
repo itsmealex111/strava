@@ -1,15 +1,14 @@
 # Soedirman Strava Challenge Dashboard
 
 Data update: 28 November 2026 (latest supplied Week 3 and Week 4 snapshots).
-Overall leaderboard combines Week 1 final, Week 2 latest, and the newly supplied Week 3 and Week 4 cumulative snapshots.
 
 Data handling:
-- Each week's latest cumulative snapshot replaces the previous snapshot for that week.
+- Week 3 and Week 4 snapshots replaced in full with the latest tables supplied on 28 November 2026.
 - Naufal . is the former nickname of Naufal Bajammal; records are consolidated under Naufal Bajammal.
-- Aminah Arla's previously hidden activities remain assigned to Week 1 (11.34 km) and Week 2 (3.01 km); latest Week 3 and Week 4 snapshots replace their previous weekly snapshots.
-- Ahmad Zaki's additional 11.92 km remain assigned to Week 1.
-- Elevation values shown as -- are treated as 0.
-- Average pace is distance-weighted; estimated total time is calculated from total distance and average pace.
-- Dashboard banner uses the AMPM Official Sponsor artwork selected by the user.
+- Aminah Arla hidden activities remain assigned to Week 1 (11.34 km) and Week 2 (3.01 km).
+- Ahmad Zaki additional 11.92 km remain assigned to Week 1.
+- Muhamad Taufik Hikam historical mileage corrected to Week 1 10.51 km and Week 2 3.02 km. Activity count, longest run, and pace were not provided for those corrections, so only distance is added.
+- Elevation values shown as -- are treated as 0; average pace is distance-weighted using available records.
+- Dashboard banner retains the AMPM Official Sponsor design.
 
 Deploy: replace repository files with the contents of this ZIP, commit and push to main; Vercel deploys automatically.

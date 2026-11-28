@@ -3,7 +3,7 @@
   "week_label": "Week 1 final + Week 2 latest + Week 3 updated + Week 4 updated (28 November 2026)",
   "event_start": "2026-11-02",
   "event_end": "2026-11-30",
-  "aggregation_note": "Overall = Week 1 final + Week 2 latest snapshot + newly supplied Week 3 snapshot + newly supplied Week 4 snapshot. Each weekly snapshot replaces the previous snapshot for that week. Naufal . is the former nickname of Naufal Bajammal; records under both names are consolidated as Naufal Bajammal. Aminah Arla's previously hidden activities remain assigned to Week 1 (11.34 km) and Week 2 (3.01 km); the latest Week 3 and Week 4 snapshots replace their prior weekly snapshots. Ahmad Zaki's additional 11.92 km remain assigned to Week 1. Elevation values shown as -- are treated as 0. Average pace is distance-weighted and excludes records without usable pace. Duration is estimated from distance and average pace.",
+  "aggregation_note": "Overall = Week 1 final + Week 2 latest + newly supplied Week 3 snapshot + newly supplied Week 4 snapshot (28 November 2026). Each weekly snapshot replaces the previous snapshot for that week. Naufal . is the former nickname of Naufal Bajammal; records under both names are consolidated as Naufal Bajammal. Aminah Arla's hidden activities remain assigned to Week 1 (11.34 km) and Week 2 (3.01 km); latest Week 3 and Week 4 snapshots replace previous weekly snapshots. Ahmad Zaki's additional 11.92 km remain assigned to Week 1. Muhamad Taufik Hikam's corrected historical mileage is Week 1 10.51 km and Week 2 3.02 km; activity count/pace/longest-run details were not supplied for these corrections. Elevation -- is treated as 0. Average pace is distance-weighted using available pace records; estimated total time is based on distance and average pace.",
   "participants": [
     {
       "name": "Dep Fr",
@@ -483,6 +483,15 @@
       "avg_pace": "6:32"
     },
     {
+      "name": "Muhamad Taufik Hikam",
+      "distance_km": 35.23,
+      "activities": 6,
+      "longest_km": 5.1,
+      "elevation_m": 0,
+      "gender": "male",
+      "avg_pace": "6:45"
+    },
+    {
       "name": "Muhammad Syairozy Syauqi",
       "distance_km": 34.3,
       "activities": 8,
@@ -661,15 +670,6 @@
       "elevation_m": 0,
       "gender": "male",
       "avg_pace": "6:54"
-    },
-    {
-      "name": "Muhamad Taufik Hikam",
-      "distance_km": 21.7,
-      "activities": 6,
-      "longest_km": 5.1,
-      "elevation_m": 0,
-      "gender": "male",
-      "avg_pace": "6:45"
     },
     {
       "name": "Gafirat Wira",
